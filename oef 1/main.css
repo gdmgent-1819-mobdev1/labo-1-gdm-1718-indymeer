@@ -1,0 +1,21 @@
+body {
+    background: black;
+}
+
+.title{
+    color: #fff;
+}
+.container{
+    width: 500px;
+    margin: 80px auto;
+}
+.clock, .newyork {
+    top: 50%;
+    width: 500px;
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+
+
+}
